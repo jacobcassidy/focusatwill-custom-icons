@@ -4,60 +4,49 @@ _Note: I have no affiliation with [focus@will](https://www.focusatwill.com/) and
 
 The default icon for the focus@will macOS app is a low-resolution, square icon. I created my own high-resolution, rounded version to match the macOS icons design and made it publicly available here. There are 6 custom color variations to choose from:
 
-<div style="display:flex;flex-wrap:wrap;">
-  <figure>
-    <a href="https://github.com/jacobcassidy/focusatwill-custom-icons/raw/main/macos-icons/white-on-red-icon.icns">
-      <img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/white-on-red-preview.png?raw=true"
-        alt="White on Red focus@will icon"
-        width="140">
-    </a>
-    <figcaption>White on Red</figcaption>
-  </figure>
+<div style="display:flex;flex-wrap:wrap;gap:70px;">
+  <a href="https://github.com/jacobcassidy/focusatwill-custom-icons/raw/main/macos-icons/white-on-red-icon.icns">
+    <img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/white-on-red-preview.png?raw=true"
+      alt="White on Red focus@will icon"
+      width="140">
+    <p>White on Red</p>
+  </a>
+  <a href="https://github.com/jacobcassidy/focusatwill-custom-icons/raw/main/macos-icons/black-on-red-icon.icns">
+    <img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/black-on-red-preview.png?raw=true"
+      alt="Black on Red focus@will icon"
+      width="140">
+      <p>Black on Red</p>
+  </a>
+</div>
 
-  <figure>
-    <a href="https://github.com/jacobcassidy/focusatwill-custom-icons/raw/main/macos-icons/black-on-red-icon.icns">
-      <img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/black-on-red-preview.png?raw=true"
-        alt="Black on Red focus@will icon"
-        width="140">
-    </a>
-    <figcaption>Black on Red</figcaption>
-  </figure>
+<div style="display:flex;flex-wrap:wrap;gap:70px;">
+  <a href="https://github.com/jacobcassidy/focusatwill-custom-icons/raw/main/macos-icons/white-on-black-icon.icns">
+    <img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/white-on-black-preview.png?raw=true"
+      alt="White on Black focus@will icon"
+      width="140">
+    <p>White on Black</p>
+  </a>
+  <a href="https://github.com/jacobcassidy/focusatwill-custom-icons/raw/main/macos-icons/red-on-black-icon.icns">
+    <img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/red-on-black-preview.png?raw=true"
+      alt="Red on Black focus@will icon"
+      width="140">
+      <p>Red on Black</p>
+  </a>
+</div>
 
-  <figure>
-    <a href="https://github.com/jacobcassidy/focusatwill-custom-icons/raw/main/macos-icons/white-on-black-icon.icns">
-      <img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/white-on-black-preview.png?raw=true"
-        alt="White on Black focus@will icon"
-        width="140">
-    </a>
-    <figcaption>White on Black</figcaption>
-  </figure>
-
-  <figure>
-    <a href="https://github.com/jacobcassidy/focusatwill-custom-icons/raw/main/macos-icons/red-on-black-icon.icns">
-      <img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/red-on-black-preview.png?raw=true"
-        alt="Red on Black focus@will icon"
-        width="140">
-    </a>
-    <figcaption>Red on Black</figcaption>
-  </figure>
-
-  <figure>
-    <a href="https://github.com/jacobcassidy/focusatwill-custom-icons/raw/main/macos-icons/black-on-white-icon.icns">
-      <img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/black-on-white-preview.png?raw=true"
-        alt="Black on White focus@will icon"
-        width="140">
-    </a>
-    <figcaption>Black on White</figcaption>
-  </figure>
-
-  <figure>
-    <a href="https://github.com/jacobcassidy/focusatwill-custom-icons/raw/main/macos-icons/red-on-white-icon.icns">
-      <img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/red-on-white-preview.png?raw=true"
-        alt="Red on White focus@will icon"
-        width="140">
-    </a>
-    <figcaption>Red on White</figcaption>
-  </figure>
+<div style="display:flex;flex-wrap:wrap;gap:70px;">
+  <a href="https://github.com/jacobcassidy/focusatwill-custom-icons/raw/main/macos-icons/black-on-white-icon.icns">
+    <img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/black-on-white-preview.png?raw=true"
+      alt="Black on White focus@will icon"
+      width="140">
+      <p>Black on White</p>
+  </a>
+  <a href="https://github.com/jacobcassidy/focusatwill-custom-icons/raw/main/macos-icons/red-on-white-icon.icns">
+    <img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/red-on-white-preview.png?raw=true"
+      alt="Red on White focus@will icon"
+      width="140">
+      <p>Red on White</p>
+  </a>
 </div>
 
 ## What is focus@will
