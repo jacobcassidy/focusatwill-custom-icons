@@ -47,7 +47,7 @@ The default icon for the focus@will macOS app is a low-resolution, square icon. 
 
 ## Q & A
 
-## What is focus@will
+### What is focus@will
 
 Their [homepage](https://www.focusatwill.com/) headline is **"Music to help you focus. Optimized by science."**. In a nutshell, they provide lyricless music that has been optimized to help you maintain sustained focus. They provide 14 different channels of music from soft classical to noisy EDM. Which serves those with and without ADHD.
 
