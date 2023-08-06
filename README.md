@@ -10,8 +10,8 @@ The default icon for the focus@will macOS app is a low-resolution, square icon. 
       <img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/white-on-red-preview.png?raw=true"
         alt="White on Red focus@will icon"
         width="140">
+      <figcaption>White on Red</figcaption>
     </a>
-    <figcaption>White on Red</figcaption>
   </figure>
 
   <figure>
@@ -19,8 +19,8 @@ The default icon for the focus@will macOS app is a low-resolution, square icon. 
       <img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/black-on-red-preview.png?raw=true"
         alt="Black on Red focus@will icon"
         width="140">
+      <figcaption>Black on Red</figcaption>
     </a>
-    <figcaption>Black on Red</figcaption>
   </figure>
 
   <figure>
@@ -28,8 +28,8 @@ The default icon for the focus@will macOS app is a low-resolution, square icon. 
       <img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/white-on-black-preview.png?raw=true"
         alt="White on Black focus@will icon"
         width="140">
+      <figcaption>White on Black</figcaption>
     </a>
-    <figcaption>White on Black</figcaption>
   </figure>
 
   <figure>
@@ -37,8 +37,8 @@ The default icon for the focus@will macOS app is a low-resolution, square icon. 
       <img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/red-on-black-preview.png?raw=true"
         alt="Red on Black focus@will icon"
         width="140">
+      <figcaption>Red on Black</figcaption>
     </a>
-    <figcaption>Red on Black</figcaption>
   </figure>
 
   <figure>
@@ -46,8 +46,8 @@ The default icon for the focus@will macOS app is a low-resolution, square icon. 
       <img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/black-on-white-preview.png?raw=true"
         alt="Black on White focus@will icon"
         width="140">
+      <figcaption>Black on White</figcaption>
     </a>
-    <figcaption>Black on White</figcaption>
   </figure>
 
   <figure>
@@ -55,8 +55,8 @@ The default icon for the focus@will macOS app is a low-resolution, square icon. 
       <img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/red-on-white-preview.png?raw=true"
         alt="Red on White focus@will icon"
         width="140">
+      <figcaption>Red on White</figcaption>
     </a>
-    <figcaption>Red on White</figcaption>
   </figure>
 </div>
 
