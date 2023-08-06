@@ -13,12 +13,6 @@ The default icon for the focus@will macOS app is a low-resolution, square icon. 
 | <a href="https://github.com/jacobcassidy/focusatwill-custom-icons/raw/main/macos-icons/black-on-white-icon.icns"><img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/black-on-white-preview.png?raw=true" alt="White on Red focus@will icon" width="140"></a> | <a href="https://github.com/jacobcassidy/focusatwill-custom-icons/raw/main/macos-icons/black-on-white-icon.icns">Black on White</a> |
 | <a href="https://github.com/jacobcassidy/focusatwill-custom-icons/raw/main/macos-icons/red-on-white-icon.icns"><img src="https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/red-on-white-preview.png?raw=true" alt="White on Red focus@will icon" width="140"></a> | <a href="https://github.com/jacobcassidy/focusatwill-custom-icons/raw/main/macos-icons/red-on-white-icon.icns">Red on White</a> |
 
-## What is focus@will
-
-Their [homepage](https://www.focusatwill.com/) headline is **"Music to help you focus. Optimized by science."**. In a nutshell, they provide lyricless music that has been optimized to help you maintain sustained focus. They provide 14 different channels of music from soft classical to noisy EDM. Which serves those with and without ADHD.
-
-I personally use the service almost daily while working as a software engineer and find it helps me fall into and stay in the zone faster. They state they have more than 2 million subscribers so it seems to work for a lot of people.
-
 ## Installation
 
 ### How to replace the app's original icon with your new custom icon:
@@ -26,10 +20,12 @@ I personally use the service almost daily while working as a software engineer a
 #### 1. Download the custom icon you want to use:
 
 ##### Direct Download
+
 - Click on an icon image above to automatically start the download for that icon.
 - If the above links don't work for you ([let me know if that's the case](https://github.com/jacobcassidy/focusatwill-custom-icons/issues)), you can manually download the icons from the `macos-icons` directory...
 
 ##### Manual Download
+
 - Open the [**macos-icons** directory](https://github.com/jacobcassidy/focusatwill-custom-icons/tree/main/macos-icons).
 - In the `macos-icons` directory, open the color variation icon file you'd like to use.
 - Then click the download arrow button on the right side of the icon file page.
@@ -39,7 +35,7 @@ I personally use the service almost daily while working as a software engineer a
 - If you haven't installed the [focus@will macOS app](https://www.focusatwill.com/app/downloads/macos), do so now.
 - Go to your macOS applications folder, usually located at `Mac HD > Applications`, then right-click on the focusatwill app and select `Get Info`. This will open the info panel.
 
-![Get Info Screenshot](https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/get-info.png?raw=true "Get Info screenshot")
+![Get Info Screenshot](https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/get-info.png?raw=true 'Get Info screenshot')
 
 #### 3. Copy and paste the custom icon over the original icon:
 
@@ -47,10 +43,15 @@ I personally use the service almost daily while working as a software engineer a
 - Go back to the app's info panel (which you opened in step 2 above) and select the original icon at the top left.
 - Press `CMD+V` to paste the custom icon over the original icon.
 
-![Info Panel Screenshot](https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/info-panel.png?raw=true "Info Panel screenshot")
-
+![Info Panel Screenshot](https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/info-panel.png?raw=true 'Info Panel screenshot')
 
 ## Q & A
+
+## What is focus@will
+
+Their [homepage](https://www.focusatwill.com/) headline is **"Music to help you focus. Optimized by science."**. In a nutshell, they provide lyricless music that has been optimized to help you maintain sustained focus. They provide 14 different channels of music from soft classical to noisy EDM. Which serves those with and without ADHD.
+
+I personally use the service almost daily while working as a software engineer and find it helps me fall into and stay in the zone faster. They state they have more than 2 million subscribers so it seems to work for a lot of people.
 
 ### How can I revert back to the original icon?
 
