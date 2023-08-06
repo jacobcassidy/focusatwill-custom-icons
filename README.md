@@ -2,7 +2,7 @@
 
 _Note: I have no affiliation with [focus@will](https://www.focusatwill.com/) and these are unofficial icons I created for my personal use._
 
-The default icon for the focus@will macOS app is a low-resolution, square icon. I created my own high-resolution, rounded version to match the macOS icons design and made it publicly available here. There are 6 custom color variations to choose from:
+The default icon for the focus@will macOS app is a low-resolution, square icon. I created my own high-resolution, rounded versions to match the macOS icon designs and made them publicly available here. There are 6 custom color variations to choose from:
 
 | ICON |  DOWNLOAD  |
 | ----- |----|
@@ -21,19 +21,19 @@ The default icon for the focus@will macOS app is a low-resolution, square icon. 
 
 ##### Direct Download
 
-- Click on an icon image above to automatically start the download for that icon.
-- If the above links don't work for you ([let me know if that's the case](https://github.com/jacobcassidy/focusatwill-custom-icons/issues)), you can manually download the icons from the `macos-icons` directory...
+- Click on an icon image or link above to automatically start the download for that icon.
+- If the above links don't work for you ([let me know](https://github.com/jacobcassidy/focusatwill-custom-icons/issues)), you can manually download the icons from the `macos-icons` directory...
 
 ##### Manual Download
 
 - Open the [**macos-icons** directory](https://github.com/jacobcassidy/focusatwill-custom-icons/tree/main/macos-icons).
 - In the `macos-icons` directory, open the color variation icon file you'd like to use.
-- Then click the download arrow button on the right side of the icon file page.
+- Then click the download arrow button on the right side of the icon file's page.
 
 #### 2. Open the focus@will app's info panel:
 
 - If you haven't installed the [focus@will macOS app](https://www.focusatwill.com/app/downloads/macos), do so now.
-- Go to your macOS applications folder, usually located at `Mac HD > Applications`, then right-click on the focusatwill app and select `Get Info`. This will open the info panel.
+- Go to your macOS applications folder, usually located at `Mac HD > Applications`, then right-click on the focusatwill app and select `Get Info` (see screenshot below). This will open the info panel.
 
 ![Get Info Screenshot](https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/get-info.png?raw=true 'Get Info screenshot')
 
@@ -43,9 +43,9 @@ The default icon for the focus@will macOS app is a low-resolution, square icon. 
 - Go back to the app's info panel (which you opened in step 2 above) and select the original icon at the top left.
 - Press `CMD+V` to paste the custom icon over the original icon.
 
-That's all folks! Your app is now using your custom icon.
-
 ![Info Panel Screenshot](https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/info-panel.png?raw=true 'Info Panel screenshot')
+
+That's all folks! Your app is now using your custom icon.
 
 ## Q & A
 
