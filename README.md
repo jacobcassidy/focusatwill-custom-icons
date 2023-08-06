@@ -43,13 +43,15 @@ The default icon for the focus@will macOS app is a low-resolution, square icon. 
 - Go back to the app's info panel (which you opened in step 2 above) and select the original icon at the top left.
 - Press `CMD+V` to paste the custom icon over the original icon.
 
+That's all folks! Your app is now using your custom icon.
+
 ![Info Panel Screenshot](https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/info-panel.png?raw=true 'Info Panel screenshot')
 
 ## Q & A
 
 ### What is focus@will
 
-Their [homepage](https://www.focusatwill.com/) headline is **"Music to help you focus. Optimized by science."**. In a nutshell, they provide lyricless music that has been optimized to help you maintain sustained focus. They provide 14 different channels of music from soft classical to noisy EDM. Which serves those with and without ADHD.
+Their [homepage](https://www.focusatwill.com/) headline is **"Music to help you focus. Optimized by science."**. In a nutshell, the service provides lyricless music that has been optimized to help you maintain sustained focus. They provide 14 different channels of music from soft classical to noisy EDM. Which serves those with and without ADHD.
 
 I personally use the service almost daily while working as a software engineer and find it helps me fall into and stay in the zone faster. They state they have more than 2 million subscribers so it seems to work for a lot of people.
 
