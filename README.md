@@ -61,6 +61,6 @@ If you want to revert back to the original icon, simply go back to the app's inf
 
 Your icon may be cached in the Dock or Finder. Restart your Mac to clear the caches.
 
-## Issues?
+## Issues or Questions?
 
-If you come across any issues, please feel free to report them [here](https://github.com/jacobcassidy/focusatwill-custom-icons/issues).
+If you come across any issues or have questions, please feel free to add them [here](https://github.com/jacobcassidy/focusatwill-custom-icons/issues).
