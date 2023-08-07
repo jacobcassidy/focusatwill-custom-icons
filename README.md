@@ -68,7 +68,7 @@ I personally use the service almost daily while working as a software engineer a
 
 ### Is focus@will free?
 
-Focus@will offers a 28-day free trial, and then a monthly, yearly, or two year paid subscription. In the past, they publicly offered a lifetime subscription as well, which I have. But currently only offer it for VIP members. If you know you want the lifetime subscription, [send them an email](mailto:webcontact@focusatwill.com) and ask if they can send you the lifetime subscription purchase page.
+Focus@will offers a 28-day free trial, and then a monthly, yearly, or two year paid subscription. In the past, they publicly offered a lifetime subscription as well, which I have. But currently only offer it for VIP members. If you know you want the lifetime subscription, [email them](mailto:webcontact@focusatwill.com) and ask if they can send you the lifetime subscription purchase page.
 
 ### Are you a focus@will affiliate?
 
