@@ -42,9 +42,9 @@ The default icon for the [focus@will macOS app](https://www.focusatwill.com/app/
 
 #### 3. Copy and paste the custom icon over the original icon:
 
-- In your Downloads folder, select the custom icon you just downloaded and copy it (`CMD + C`).
+- In your downloads folder, select the custom icon you just downloaded and copy it with `CMD + C`.
 - Go back to the app's info panel (which you opened in step 2 above) and select the original icon at the top left.
-- Press `CMD+V` to paste the custom icon over the original icon.
+- Press `CMD + V` to paste the custom icon over the original icon.
 
 ![Info Panel Screenshot](https://github.com/jacobcassidy/focusatwill-custom-icons/blob/main/previews/screenshot-info-panel.png?raw=true 'Info Panel screenshot')
 
