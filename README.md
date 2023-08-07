@@ -72,7 +72,7 @@ Focus@will offers a 28-day free trial, and then a monthly, yearly, or two year p
 
 ### Are you a focus@will affiliate?
 
-No, I have no financial interest in focus@will and make no money from them. I'm simply a happy user who wanted to share my custom icons to other focus@will users.
+No, I have no financial interest in focus@will and make no money from them. I'm simply a happy user who wanted to share my custom icons with other focus@will users.
 
 ## Issues or Questions?
 
