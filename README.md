@@ -2,7 +2,7 @@
 
 > _Note: I have no affiliation with focus@will and these are unofficial icons I created for my personal use._
 
-The default icon for the [focus@will macOS app](https://www.focusatwill.com/app/downloads/macos) is a low-resolution square icon. I created my high-resolution rounded versions to match the macOS icons design and made them publicly available here. There are 6 custom color variations to choose from:
+The default icon for the [focus@will macOS app](https://www.focusatwill.com/app/downloads/macos) is a low-resolution square icon. I created a set of high-resolution rounded versions to match the macOS icons design and made them publicly available here. There are 6 custom color variations to choose from:
 
 | ICON PREVIEW | DOWNLOAD LINK |
 | :-: | :-: |
